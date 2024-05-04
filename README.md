@@ -36,6 +36,5 @@ Estoy emocionado por las oportunidades que se presenten en mi camino y espero po
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/theluismar1">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
-
 </p>
-<h3 align="center">**No recibes lo que das, pero das lo que eres** &#127470;&#127475</h3>
+<h3 align="center">No recibes lo que das, pero das lo que eres</h3>
