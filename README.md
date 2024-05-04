@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy Luismar</h1>
-<h3 align="center"> &#127470;&#127475</h3>
 
 <p>Sobre mí
 
