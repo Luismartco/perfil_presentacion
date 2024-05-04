@@ -8,7 +8,10 @@ Fuera del ámbito académico, soy un músico apasionado. En mi tiempo libre, me 
 
 Estoy emocionado por las oportunidades que se presenten en mi camino y espero poder aportar mis conocimientos y habilidades a futuros proyectos. ¡Será un placer conectar contigo!</p>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<img src="">
+<img src="">
+
 https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
 https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white
