@@ -6,29 +6,25 @@ Mi nombre es Luis Gabriel Martínez Contreras. Actualmente me encuentro finaliza
 
 Fuera del ámbito académico, soy un músico apasionado. En mi tiempo libre, me dedico a mejorar y aprender nuevas tecnologías, con el objetivo de mantenerme actualizado y ser un profesional más completo.
 
-Estoy emocionado por las oportunidades que se presenten en mi camino y espero poder aportar mis conocimientos y habilidades a futuros proyectos. ¡Será un placer conectar contigo!<p>
+Estoy emocionado por las oportunidades que se presenten en mi camino y espero poder aportar mis conocimientos y habilidades a futuros proyectos. ¡Será un placer conectar contigo!</p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 En proceso de aprender Linux.</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 En proceso de mejora continua del idioma inglés.</a>
 
-- 🤝 I’m available for freelancing.
+- 🎼 Músico melódico.</a>
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 </a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 Puedes contactarme a travez de **luis.martinezco@cecar.edu.co**</a>
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
 
 <p align="center">
 
@@ -53,17 +49,4 @@ Estoy emocionado por las oportunidades que se presenten en mi camino y espero po
 
 </p>
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
+<p>**No resibes lo que das, pero das lo que eres**</p>
