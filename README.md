@@ -2,7 +2,7 @@
 
 <p>Sobre mí
 
-Hola, mi nombre es Luis Gabriel Martínez Contreras. Actualmente me encuentro finalizando mi carrera de Ingeniería de Sistemas. Además de mis estudios, domino el idioma inglés y he obtenido varios certificados de instituciones educativas de nivel superior.
+Mi nombre es Luis Gabriel Martínez Contreras. Actualmente me encuentro finalizando mi carrera de Ingeniería de Sistemas. Además de mis estudios, domino el idioma inglés y he obtenido varios certificados de instituciones educativas de nivel superior.
 
 Fuera del ámbito académico, soy un músico apasionado. En mi tiempo libre, me dedico a mejorar y aprender nuevas tecnologías, con el objetivo de mantenerme actualizado y ser un profesional más completo.
 
