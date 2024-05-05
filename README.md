@@ -25,25 +25,6 @@ Estoy emocionado por las oportunidades que se presenten en mi camino y espero po
 <ima src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
 <ima src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -73,4 +54,4 @@ Estoy emocionado por las oportunidades que se presenten en mi camino y espero po
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
 </p>
-<h3 align="center">No recibes lo que das, pero das lo que eres</h3>
+<h3 align="center">"No recibes lo que das, pero das lo que eres"</h3>
